@@ -1,0 +1,65 @@
+body{
+    margin: 0 auto;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.dog{
+    color: black;
+    font-size: 22px;
+    font-weight: 500px;
+}
+
+.wolf{
+    color: black;
+    text-decoration: none;
+    
+}
+.center{
+    align-items: center;
+}
+.head{
+    background-color: #ffffff; 
+}
+@media (min-width: 992px){
+    .wow{
+        font-size: 100px;
+    }
+}  
+@media (min-width: 1200px){
+    .wow{
+        font-size: 100px;
+    }
+}  
+
+.dogimg{
+    width: 100%;
+    height: auto;
+}
+.but1{
+    color: white;
+    background-color: #BAA598;
+    padding: 12px 30px; 
+    border-radius: 24px; 
+    border: 1px solid #BAA598; 
+}
+.but2{
+    color:#BAA598;
+    background-color: #ffffff; 
+    padding: 12px 30px; 
+    border-radius: 24px; 
+    border: 1px solid #BAA598;
+}
+.mmm{
+    align-items: center; 
+}
+.op0{
+    opacity: 0;
+}
+.container2{
+    display: flex;
+    justify-content: center; 
+    color: #BAA598;
+    align-items: center;
+}   
+ 
