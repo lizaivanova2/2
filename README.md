@@ -62,10 +62,7 @@
 
 ## Команда
 
-- Алина Петрова — Product Manager (координация, постановка задач).
-- Дмитрий Смирнов — Frontend Developer (HTML/CSS/Bootstrap, статические страницы).
-- Софья Иваненко — Backend Developer (Express, SQLite, REST API).
-- Кирилл Орлов — QA Engineer (тестирование сценариев регистрации и входа).
+- Иванова Елизавета - Full-Stack development
 
 ## Контакты
 
